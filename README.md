@@ -14,8 +14,10 @@
 
 ## Uninstall Network-Manager VPN Plugin
 
-`cd /tmp && wget -O install.sh https://raw.githubusercontent.com/claudineyqr/network-manager-wireguard-install/main/uninstall.sh`
+`cd /tmp && wget -O uninstall.sh https://raw.githubusercontent.com/claudineyqr/network-manager-wireguard-install/main/uninstall.sh`
 
 `chmod +x uninstall.sh`
 
 `sh ./uninstall.sh`
+
+After Uninstall reboot OS System
