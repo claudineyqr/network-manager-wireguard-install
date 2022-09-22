@@ -10,7 +10,7 @@
 
 `chmod +x install.sh`
 
-`sh ./install.sh`
+`sudo sh install.sh`
 
 ## Uninstall Network-Manager VPN Plugin
 
@@ -18,6 +18,6 @@
 
 `chmod +x uninstall.sh`
 
-`sh ./uninstall.sh`
+`sudo sh uninstall.sh`
 
 After Uninstall reboot OS System
